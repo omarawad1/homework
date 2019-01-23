@@ -1,0 +1,4 @@
+Sublist3r Tool
+Step1: .git clone https://github.com/aboul3la/Sublist3r
+Step2: cd sublist3r/
+Step3: ./sublist3r.py -d nmap.org
